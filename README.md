@@ -92,5 +92,5 @@ Flutter • Provider • GetX • Dio • MVC Architecture
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/YOUR_LINK  
-Email: your.email@gmail.com
+LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/charan-gavvala-618b37287/)  
+Email: charangavvala04@gmail.com
