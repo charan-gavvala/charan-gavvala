@@ -84,13 +84,12 @@ Flutter • Provider • GetX • Dio • MVC Architecture
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charan-gavvala&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-gavvala&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect
 
-LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/charan-gavvala-618b37287/)  
+LinkedIn: [https://www.linkedin.com/in/charan-gavvala-618b37287/] 
 Email: charangavvala04@gmail.com
