@@ -81,14 +81,6 @@ Flutter • Provider • GetX • Dio • MVC Architecture
 - Clean UI architecture
 
 ---
-
-## GitHub Statistics
-
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charan-gavvala&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-gavvala&layout=compact&theme=tokyonight)
-
----
-
 ## Connect
 
 LinkedIn: [https://www.linkedin.com/in/charan-gavvala-618b37287/] 
